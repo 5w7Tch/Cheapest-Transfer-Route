@@ -52,7 +52,7 @@ stays within a given limit.
 
 ## Running Tests
 
-Execute all unit and integration tests:
+To execute all unit and integration tests run this command:
 ```bash
 mvn test
 ```

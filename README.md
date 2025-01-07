@@ -62,6 +62,7 @@ mvn test
 ## Example for CURL Commands
 
 ### Calculate Cheapest Route
+Since no front end exists use this command to test on desireble input
 ```bash
 curl -X POST \
   http://localhost:8080/api/transfers/calculate \
